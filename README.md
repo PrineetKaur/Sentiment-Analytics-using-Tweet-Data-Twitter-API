@@ -67,8 +67,8 @@ Sentiment-Analytics-using-Tweet-Data-Twitter-API/
 Create a Twitter Developer account and set up an application to get the *API_KEY, API_SECRET, ACCESS_TOKEN, and ACCESS_SECRET*.
 
 ## Documentation
-- [How to Guide](docs/How_to_Guide.md) – Setup & usage instructions
-- [API Reference](docs/API_Reference.md) – Functions and parameters
+- [How to Guide](docs/how-to-guide.md) – Setup & usage instructions
+- [API Reference](docs/api-reference.md) – Functions and parameters
 
 ## Project Usage
 	•	Upon launching the Shiny app, input relevant keywords or hashtags related to Delta Airlines.
