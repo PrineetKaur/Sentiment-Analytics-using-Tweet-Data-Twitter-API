@@ -3,15 +3,15 @@
 ## (Project from my Big Data Analytics Master's 2022 batch)
 
 ## Table of Contents
-1. [Project Overview](#Project_Overview)
-2. [Features](#features)
-3. [Technologies Used](#technologies_used)
-4. [Project Structure](#Project_Structure)
+1. [Project Overview](#Project-Overview)
+2. [Features](#Features)
+3. [Technologies Used](#Technologies-Used)
+4. [Project Structure](#Project-Structure)
 5. [Getting Started](#Getting-Started)
-6. [Documentation](#documentation)
-7. [Project Usage](#project-usage)
-8. [License](#license)
-9. [Acknowledgments](#acknowledgments)
+6. [Documentation](#Documentation)
+7. [Project Usage](#Project-Usage)
+8. [License](#License)
+9. [Acknowledgments](#Acknowledgments)
 
 ## Project Overview
 Customer opinions expressed on social media can have a significant impact on a brand's reputation.
@@ -67,8 +67,8 @@ Sentiment-Analytics-using-Tweet-Data-Twitter-API/
 Create a Twitter Developer account and set up an application to get the *API_KEY, API_SECRET, ACCESS_TOKEN, and ACCESS_SECRET*.
 
 ## Documentation
-- [How-to Guide](docs/how-to-guide.md) – Setup & usage instructions
-- [API Reference](docs/API_Reference.md) – Functions and parameters
+- [How to Guide](docs/How-to-Guide.md) – Setup & usage instructions
+- [API Reference](docs/API-Reference.md) – Functions and parameters
 
 ## Project Usage
 	•	Upon launching the Shiny app, input relevant keywords or hashtags related to Delta Airlines.
