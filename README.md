@@ -49,30 +49,28 @@ This project analyzes public tweets about Delta Airlines to gauge customer senti
 
 ## How-to Guide
 
-### Introduction
+Following are the basic steps to set up and run the sentiment analysis application. If you feel stuck somewhere and need a detailed "How-To", you can refer to the *How-to Guide.md* file.
 
-This guide walks you through setting up and running the sentiment analysis application.
-
-#### Step 1: Install R and RStudio
+### Step 1: Install R and RStudio
 	•	Download and install R from https://cran.r-project.org/.
 	•	Download and install RStudio from https://posit.co/download/rstudio-desktop/.
 
-#### Step 2: Install Required R Packages
+### Step 2: Install Required R Packages
 Open RStudio and run the following command to install the necessary packages:
      ```R
     install.packages(c("shiny", "rtweet", "tidyverse", "ggplot2"))
 
-#### Step 3: Obtain Twitter API Credentials
+### Step 3: Obtain Twitter API Credentials
 	•	Visit Twitter Developer and create a new application.
 	•	Note down the API_KEY, API_SECRET, ACCESS_TOKEN, and ACCESS_SECRET.
 
-#### Step 4: Run the Shiny Application
+### Step 4: Run the Shiny Application
 
 In RStudio, run the following command to start the application:
     ```R
     shiny::runApp("SMA Project - Group 4_Code.ipynb")
 
-#### Step 5: Interact with the Dashboard
+### Step 5: Interact with the Dashboard
 	•	Enter keywords or hashtags related to Delta Airlines in the input field.
 	•	Explore the visualizations to understand the sentiment trends.
 
@@ -99,7 +97,7 @@ In RStudio, run the following command to start the application:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the *LICENSE.md* file for details.
 
 ## Acknowledgments
 	•	rtweet for Twitter API integration.
