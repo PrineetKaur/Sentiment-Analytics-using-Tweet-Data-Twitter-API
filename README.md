@@ -8,8 +8,8 @@
 3. [Technologies Used](#technologies-used)
 4. [Setup Instructions](#setup-instructions)
 5. [Usage](#project-usage)
-6. [How-to Guide](docs/API_Reference.md)
-7. [API Reference](docs/api_reference.md)
+6. [How-to Guide](How-to-Guide.md)
+7. [API Reference](API-reference.md)
 8. [License](#license)
 9. [Acknowledgments](#acknowledgments)
 
