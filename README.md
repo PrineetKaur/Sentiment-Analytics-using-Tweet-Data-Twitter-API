@@ -3,10 +3,10 @@
 ## (Project from my Big Data Analytics Master's 2022 batch)
 
 ## Table of Contents
-1. [Project Overview](#project-overview)
+1. [Project Overview](#Project_Overview)
 2. [Features](#features)
-3. [Technologies Used](#technologies-used)
-4. [Project Structure](#Project-Structure)
+3. [Technologies Used](#technologies_used)
+4. [Project Structure](#Project_Structure)
 5. [Getting Started](#Getting-Started)
 6. [Documentation](#documentation)
 7. [Project Usage](#project-usage)
@@ -14,7 +14,7 @@
 9. [Acknowledgments](#acknowledgments)
 
 ## 📌 Project Overview
-Customer opinions expressed on social media can significantly impact a brand's reputation.
+Customer opinions expressed on social media can have a significant impact on a brand's reputation.
 This project collects real-time tweets about Delta Airlines to gauge customer sentiment (positive, negative, neutral). Utilizing R, Shiny, and Markdown, it fetches real-time data via the Twitter API, performs sentiment analysis, and presents the findings through interactive dashboards.
 
 ## ✨ Features
