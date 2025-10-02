@@ -17,7 +17,7 @@
 Customer opinions expressed on social media can have a significant impact on a brand's reputation.
 This project collects real-time tweets about Delta Airlines to gauge customer sentiment (positive, negative, neutral). Utilizing R, Shiny, and Markdown, it fetches real-time data via the Twitter API, performs sentiment analysis, and presents the findings through interactive dashboards.
 
-## ✨ Features
+## Features
 - Fetch tweets in real-time via **Twitter API**
 - Perform **sentiment classification** on text data
 - Generate **distribution graphs** of sentiment
@@ -67,8 +67,8 @@ Sentiment-Analytics-using-Tweet-Data-Twitter-API/
 Create a Twitter Developer account and set up an application to get the *API_KEY, API_SECRET, ACCESS_TOKEN, and ACCESS_SECRET*.
 
 ## 📖 Documentation
-- [How-to Guide](documentaion/how-to-guide.md) – Setup & usage instructions
-- [API Reference](documentation/APIreference.md) – Functions and parameters
+- [How-to Guide](docs/how-to-guide.md) – Setup & usage instructions
+- [API Reference](docs/API-reference.md) – Functions and parameters
 
 ## 🔄 Project Usage
 	•	Upon launching the Shiny app, input relevant keywords or hashtags related to Delta Airlines.
