@@ -2,9 +2,7 @@
 
 This document provides detailed descriptions of the main functions and scripts used in this project.
 
----
-
-## 1. `get_tweets()`
+### 1. `get_tweets()`
 
 **Description:**  
 Fetches tweets using the Twitter API for a given keyword or hashtag.  
@@ -26,7 +24,7 @@ Data frame containing:
 
 ---
 
-## 2. analyze_sentiment()
+### 2. analyze_sentiment()
 
 **Description:**
   Classifies text into sentiment categories.
@@ -44,7 +42,7 @@ Data frame containing:
 
 ---
 
-## 3. plot_sentiment_distribution()
+### 3. plot_sentiment_distribution()
 
 **Description:**
 Creates a pie/bar chart showing the percentage of positive, negative, and neutral tweets.
@@ -61,7 +59,7 @@ A ggplot object for visualization.
 
 ---
 
-## 4. plot_sentiment_trends()
+### 4. plot_sentiment_trends()
 
 **Description:**
   Plots sentiment frequency over time.
@@ -78,7 +76,7 @@ A ggplot object for visualization.
 
 ---
 
-## 5. create_wordcloud()
+### 5. create_wordcloud()
 
 **Description:**
 Generates a word cloud of frequently used terms in the dataset.
@@ -95,6 +93,6 @@ A word cloud visualization.
 
 ---    
 
-## Notes
+### Notes
 	•	All functions assume that authentication via rtweet::create_token() has been completed.
 	•	Functions can be reused with any keyword/hashtag, not just airline data.
