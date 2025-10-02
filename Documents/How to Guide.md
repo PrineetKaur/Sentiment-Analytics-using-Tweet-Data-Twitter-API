@@ -1,4 +1,4 @@
-## How-to Guide: 
+# How-to Guide: 
 ### (For Performing Sentiment Analysis on Tweets Using R and Shiny)
 
 This guide walks you through the process of setting up, running, and exploring the sentiment analysis application that analyzes tweets about Delta Airlines (or any other topic).
