@@ -24,6 +24,7 @@ Data frame containing:
 
 ---
 
+
 ### 2. analyze_sentiment()
 
 **Description:**
@@ -42,6 +43,7 @@ Data frame containing:
 
 ---
 
+
 ### 3. plot_sentiment_distribution()
 
 **Description:**
@@ -58,6 +60,7 @@ A ggplot object for visualization.
     plot_sentiment_distribution(sentiment_data)
 
 ---
+
 
 ### 4. plot_sentiment_trends()
 
@@ -76,6 +79,7 @@ A ggplot object for visualization.
 
 ---
 
+
 ### 5. create_wordcloud()
 
 **Description:**
@@ -92,6 +96,7 @@ A word cloud visualization.
     create_wordcloud(tweets$text)
 
 ---    
+
 
 ### Notes
 	•	All functions assume that authentication via rtweet::create_token() has been completed.
