@@ -1,6 +1,6 @@
 # Sentiment Analytics using Tweet Data (Twitter API)
 
-## (Group project from my Big Data Analytics Master's 2020 batch)
+## (Project from my Big Data Analytics Master's 2022 batch)
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
