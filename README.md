@@ -9,9 +9,12 @@
 4. [Project Structure](#Project-Structure)
 5. [Getting Started](#Getting-Started)
 6. [Documentation](#Documentation)
+	- [How-to Guide](docs/how_to_guide.md)
+	- [API Reference](docs/api_reference.md) 
 7. [Project Usage](#Project-Usage)
 8. [License](#License)
 9. [Acknowledgments](#Acknowledgments)
+
 
 ## Project Overview
 Customer opinions expressed on social media can have a significant impact on a brand's reputation.
