@@ -13,7 +13,7 @@
 8. [License](#license)
 9. [Acknowledgments](#acknowledgments)
 
-## 📌 Project Overview
+## Project Overview
 Customer opinions expressed on social media can have a significant impact on a brand's reputation.
 This project collects real-time tweets about Delta Airlines to gauge customer sentiment (positive, negative, neutral). Utilizing R, Shiny, and Markdown, it fetches real-time data via the Twitter API, performs sentiment analysis, and presents the findings through interactive dashboards.
 
@@ -25,14 +25,14 @@ This project collects real-time tweets about Delta Airlines to gauge customer se
 - Visualize frequent terms using a **word cloud**
 - Interactive **Shiny dashboard** for exploration
 
-## 🖥️ Technologies Used
+## Technologies Used
 - **R**: Programming language for statistical computing.
 - **Shiny**: Web application framework for R.
 - **rtweet**: R package for accessing Twitter's REST and stream APIs.
 - **tidyverse**: Collection of R packages for data science.
 - **ggplot2**: Data visualization package for R.
 
-## 📂 Project Structure
+## Project Structure
 Sentiment-Analytics-using-Tweet-Data-Twitter-API/
 │
 ├── SMA Project - Group 4_Code.ipynb   		# Core notebook with R/Shiny code
@@ -42,7 +42,7 @@ Sentiment-Analytics-using-Tweet-Data-Twitter-API/
 ├── LICENSE.md                        		# MIT License
 └── README.md                         		# Project Overview
 
-## 🚀 Getting Started 
+## Getting Started 
 
 ### Prerequisites
 	•	R (v4.0+)
@@ -66,26 +66,26 @@ Sentiment-Analytics-using-Tweet-Data-Twitter-API/
 ### Obtain Twitter API credentials
 Create a Twitter Developer account and set up an application to get the *API_KEY, API_SECRET, ACCESS_TOKEN, and ACCESS_SECRET*.
 
-## 📖 Documentation
+## Documentation
 - [How-to Guide](docs/how-to-guide.md) – Setup & usage instructions
-- [API Reference](docs/API-reference.md) – Functions and parameters
+- [API Reference](docs/API_Reference.md) – Functions and parameters
 
-## 🔄 Project Usage
+## Project Usage
 	•	Upon launching the Shiny app, input relevant keywords or hashtags related to Delta Airlines.
 	•	The dashboard will display real-time sentiment analysis, including:
 	•	Sentiment distribution (positive, negative, neutral)
 	•	Time-series sentiment trends
 	•	Word clouds of frequently used terms
 
-## 🖼 Screenshots
+## Screenshots
 
 (Work in Progress :))
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License - see the *LICENSE.md* file for details.
 
-## 🙌 Acknowledgments
+## Acknowledgments
 	•	rtweet for Twitter API integration.
 	•	Shiny for interactive web applications.
 	•	tidyverse for data manipulation and visualization.
