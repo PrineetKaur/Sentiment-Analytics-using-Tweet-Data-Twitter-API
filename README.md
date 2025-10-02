@@ -9,8 +9,6 @@
 4. [Project Structure](#Project-Structure)
 5. [Getting Started](#Getting-Started)
 6. [Documentation](#Documentation)
-	- [How-to Guide](docs/how_to_guide.md.)
-	- [API Reference](docs/api_reference.md.) 
 7. [Project Usage](#Project-Usage)
 8. [License](#License)
 9. [Acknowledgments](#Acknowledgments)
@@ -70,8 +68,8 @@ Sentiment-Analytics-using-Tweet-Data-Twitter-API/
 Create a Twitter Developer account and set up an application to get the *API_KEY, API_SECRET, ACCESS_TOKEN, and ACCESS_SECRET*.
 
 ## Documentation
-- [How to Guide](docs/how-to-guide.md) – Setup & usage instructions
-- [API Reference](docs/api-reference.md) – Functions and parameters
+- [How to Guide](Docs/how-to-guide.md) – Setup & usage instructions
+- [API Reference](Docs/api-reference.md) – Functions and parameters
 
 ## Project Usage
 	•	Upon launching the Shiny app, input relevant keywords or hashtags related to Delta Airlines.
