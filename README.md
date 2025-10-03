@@ -62,7 +62,7 @@ This project collects real-time tweets about Delta Airlines to gauge customer se
   	install.packages(c("shiny", "rtweet", "tidyverse", "ggplot2"))
 
 ### Run the Shiny App
-	```R
+	
 	shiny::runApp("SMA Project - Group 4_Code.ipynb")
 
 ### Obtain Twitter API credentials
