@@ -10,8 +10,9 @@
 5. [Getting Started](#Getting-Started)
 6. [Documentation](#Documentation)
 7. [Project Usage](#Project-Usage)
-8. [License](#License)
-9. [Acknowledgments](#Acknowledgments)
+8. [Project Conclusion](#Project-Conclusion)
+9. [License](#License)
+10. [Acknowledgments](#Acknowledgments)
 
 
 ## Project Overview
@@ -79,9 +80,36 @@ Create a Twitter Developer account and set up an application to get the *API_KEY
 	•	Time-series sentiment trends
 	•	Word clouds of frequently used terms
 
-## Screenshots
+## Project Conclusion
+The tweets data helped to summarize the overall user tweet trend for Delta Airlines, which included:
 
-(Work in Progress :))
+- ***Follower Profile Summary*** - (Provides a world map to see the overall distribution of the Tweets users across the globe and their top locations
+  
+ - ***User Trend*** *(user-specific data like the most liked post, most popular hashtags among users, most shared links, etc)*
+
+- ***Tweeter Status Frequency*** *(helped understand the most likable days of the month when users post about Delta Airlines, and in return, the tendency of Delta Airlines to post replies to the user tweets)*
+
+- ***User Profile*** – *(Included top users making maximum tweets about Delta Airlines, their most preferred platforms, and the top languages they spoke)*
+
+- ***Sentiment Analysis*** – *(Concluded based on the Emotions scores of the Tweets along with their engagement & response activity w.r.t those sentiments (positive/negative))*
+
+- ***Detailed Topic Analysis using Bigrams***
+
+## Screenshots
+Some screenshots for reference from the final [Analysis Markdown Report](https://rpubs.com/delta_twitter/721486)
+
+##### World Map showing Global Distribution of Users Tweeting about Delta Airlines
+<img align="left" alt="world map" width="100px" src="https://i.ibb.co/jP7gcCZM/Screenshot-2025-10-03-at-11-28-23.png" />
+
+##### Topic Analysis of Tweets from Top 6 Competitors
+<img align="left" alt="Competition" width="100px" src="https://i.ibb.co/Mx702Mmb/Screenshot-2025-10-03-at-11-27-01.png" />
+
+
+<br />
+<br />
+<br />
+<br />
+
 
 ## License
 
@@ -91,3 +119,4 @@ This project is licensed under the MIT License - see the *LICENSE.md* file for d
 	•	rtweet for Twitter API integration.
 	•	Shiny for interactive web applications.
 	•	tidyverse for data manipulation and visualization.
+
