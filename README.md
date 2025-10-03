@@ -11,8 +11,9 @@
 6. [Documentation](#Documentation)
 7. [Project Usage](#Project-Usage)
 8. [Project Conclusion](#Project-Conclusion)
-9. [License](#License)
-10. [Acknowledgments](#Acknowledgments)
+9. [Final Report](#Final-Report)
+10. [License](#License)
+11. [Acknowledgments](#Acknowledgments)
 
 
 ## Project Overview
@@ -95,21 +96,8 @@ The tweets data helped to summarize the overall user tweet trend for Delta Airli
 
 - ***Detailed Topic Analysis using Bigrams***
 
-## Screenshots
-Some screenshots for reference from the final [Analysis Markdown Report](https://rpubs.com/delta_twitter/721486)
-
-##### World Map showing Global Distribution of Users Tweeting about Delta Airlines
-<img align="left" alt="world map" width="100px" src="https://i.ibb.co/jP7gcCZM/Screenshot-2025-10-03-at-11-28-23.png" />
-
-##### Topic Analysis of Tweets from Top 6 Competitors
-<img align="left" alt="Competition" width="100px" src="https://i.ibb.co/Mx702Mmb/Screenshot-2025-10-03-at-11-27-01.png" />
-
-
-<br />
-<br />
-<br />
-<br />
-
+## Final Report
+The final Project Analysis is presented using the [Markdown Report](https://rpubs.com/delta_twitter/721486) in R
 
 ## License
 
