@@ -34,14 +34,15 @@ This project collects real-time tweets about Delta Airlines to gauge customer se
 - **ggplot2**: Data visualization package for R.
 
 ## Project Structure
-Sentiment-Analytics-using-Tweet-Data-Twitter-API/
-│
-├── SMA Project - Group 4_Code.ipynb   		# Core notebook with R/Shiny code
-├── docs/
-│   ├── how_to_guide.md                		# Step-by-step Setup Guide
-│   ├── api_reference.md               		# Functions and API documentation
-├── LICENSE.md                        		# MIT License
-└── README.md                         		# Project Overview
+
+	Sentiment-Analytics-using-Tweet-Data-Twitter-API/
+	│
+	├── SMA Project - Group 4_Code.ipynb   		# Core notebook with R/Shiny code
+	├── docs/
+	│   ├── how_to_guide.md                		# Step-by-step Setup Guide
+	│   ├── api_reference.md               		# Functions and API documentation
+	├── LICENSE.md                        		# MIT License
+	└── README.md                         		# Project Overview
 
 ## Getting Started 
 
